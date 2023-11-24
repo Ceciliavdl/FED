@@ -1,0 +1,43 @@
+@font-face {
+    font-family: Dunkin;
+    src: url(fonts/612741c59719f3372ece474f_DunkinSans-Display.otf);
+  }
+
+@font-face {
+    font-family: DunkinLight;
+    src: url(fonts/612741c59719f39d57ce4756_DunkinSans-Book.otf);
+  }
+
+body {
+    font-family: Dunkin;
+    margin: 0;
+}
+
+p:first-child {
+    background-color: #FF671F;
+    padding: 0.9em;
+    margin: 0em;
+    font-family: DunkinLight;
+    color: white;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+img:first-child {
+    width: 9em;
+}
+
+img:nth-child(2) {
+    width: 1em;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    margin-top: 2em;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
