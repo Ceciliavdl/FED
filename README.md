@@ -10,17 +10,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-## Jij
+## Cecilia van der Linde
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-Cecilia van der Linde
+  Cecilia van der Linde
+
   #### Je startniveau:
-Rood
+  Rood
   #### Je focus:
-Surface plane 
+  Surface
+ 
 </details>
 
 
